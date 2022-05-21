@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarthak Arora</h1>
 <h3 align="center">A Web Developer from BITS Pilani, India</h3>
 
-- 🔭 I’m currently working with [Commit](commit.net.in)
 
 - 🌱 I’m currently learning **Nodejs**
 

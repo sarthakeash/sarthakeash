@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-sarthakeash@gmail.com-blue?style=flat-square&logo=gmail)](mailto:sarthakeash@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sarthak-arora-aa92b9201/)
 
-### Ex-Founding Engineer @ Entelligence.AI | CS'24 BITS Pilani
+### Engineering @Eightfold.ai | CS'24 BITS Pilani
 
 Building intelligent solutions at the intersection of AI and software engineering
 

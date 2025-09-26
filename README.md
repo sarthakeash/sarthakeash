@@ -7,8 +7,6 @@
 
 ### Engineering @Eightfold.ai | CS'24 BITS Pilani
 
-Building intelligent solutions at the intersection of AI and software engineering
-
 </div>
 
 ---
